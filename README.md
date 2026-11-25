@@ -66,7 +66,7 @@
 
 AdWeave is an AI-powered media buying platform that connects Meta and TikTok ad accounts, offering campaign diagnosis, buyer personas, optimization recommendations, and a Claude plugin that generates creatives, launches campaigns, and closes the feedback loop—all from within Claude.
 
-**Areas:** AI · Advertising · Media Buying · Claude Plugin · Marketing
+**Areas:** Artificial Intelligence · Advertising · Media Buying · Claude Plugin · Marketing
 
 ## AdWeave on APIs.io
 
@@ -76,17 +76,23 @@ Everything profiled for AdWeave is published on APIs.io rather than in this repo
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adweave-ai-mcp.yml](https://apis.io/servers/adweave-ai/adweave-ai-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adweave Ai Domain Security](https://apis.io/security/adweave-ai/adweave-ai-domain-security/)
+- [AdWeave Domain Security](https://apis.io/security/adweave-ai/adweave-ai-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adweave Ai Plans Pricing](https://apis.io/plans/adweave-ai/adweave-ai-plans-pricing/)
+- [AdWeave Plans Pricing](https://apis.io/plans/adweave-ai/adweave-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -100,18 +106,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.5** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 18.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 63.7 |
+| Access clarity | 66.0 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 21.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -137,8 +143,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adweave-ai/](https://apis.io/providers/adweave-ai/).
 
